@@ -1,0 +1,11 @@
+# Data directories
+prometheus/
+grafana/data/
+alertmanager/data/
+
+# Environments
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
